@@ -1,4 +1,4 @@
-# Credit Risk & Loan Default Prediction System
+# Credit Risk & Loan Default Prediction System  
 
 An end-to-end machine learning project that predicts the likelihood of loan default using applicant financial, employment, loan, and credit-history information.
 
